@@ -1,0 +1,8 @@
+D:\aplikacje\MojaAplikacjaSobota\bin\Debug\MojaAplikacjaSobota.exe.config
+D:\aplikacje\MojaAplikacjaSobota\bin\Debug\MojaAplikacjaSobota.exe
+D:\aplikacje\MojaAplikacjaSobota\bin\Debug\MojaAplikacjaSobota.pdb
+D:\aplikacje\MojaAplikacjaSobota\obj\Debug\MojaAplikacjaSobota.csproj.AssemblyReference.cache
+D:\aplikacje\MojaAplikacjaSobota\obj\Debug\MojaAplikacjaSobota.csproj.SuggestedBindingRedirects.cache
+D:\aplikacje\MojaAplikacjaSobota\obj\Debug\MojaAplikacjaSobota.csproj.CoreCompileInputs.cache
+D:\aplikacje\MojaAplikacjaSobota\obj\Debug\MojaAplikacjaSobota.exe
+D:\aplikacje\MojaAplikacjaSobota\obj\Debug\MojaAplikacjaSobota.pdb
